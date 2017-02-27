@@ -1,9 +1,6 @@
 #**Finding Lane Lines on the Road** 
 
 ##pmelick 2/26/16
-
----
-
 [//]: # (Image References)
 
 [gray]: ./report_images/gray_image.jpg "Gray"
@@ -12,8 +9,6 @@
 [roi_only]: ./report_images/roi_only_image.jpg "ROI"
 [hough]: ./report_images/hough_image.jpg "Hough"
 [lines]: ./report_images/lines.jpg "Lines"
-
----
 
 ### Reflection
 
